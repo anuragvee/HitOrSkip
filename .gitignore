@@ -1,0 +1,14 @@
+.env
+.cache
+reccobeats_features.json
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+.vscode/
+.DS_Store
+*.swp
+data/liked_tracks.csv
+data/liked_tracks_with_features.csv
+data/training_data.csv
